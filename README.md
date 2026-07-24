@@ -8,7 +8,7 @@
 	<a href="tel:+27843024054">
 		<img src="https://img.shields.io/badge/Call-084%20302%204054-1E88E5?style=for-the-badge&logo=phonepe&logoColor=white" alt="Phone" />
 	</a>
-	<a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">
+	<a href="https://www.linkedin.com/in/clara-van-biljon-81a759423/" target="_blank" rel="noopener noreferrer">
 		<img src="https://img.shields.io/badge/LinkedIn-Clara%20van%20Biljon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 	</a>
 	<a href="https://github.com/ClaraIvB" target="_blank" rel="noopener noreferrer">
@@ -59,5 +59,6 @@ Git • GitHub • Visual Studio • VS Code
 
 - 📞 [084 302 4054](tel:+27843024054)
 - ✉️ [claravanbiljon@gmail.com](mailto:claravanbiljon@gmail.com)
-- 💼 [LinkedIn - Clara van Biljon](https://www.linkedin.com)
+- 💼 [LinkedIn - Clara van Biljon](https://www.linkedin.com/in/clara-van-biljon-81a759423/)
 - 🐙 [GitHub - ClaraIvB](https://github.com/ClaraIvB)
+- 📄 [Clara van Biljon CV](./Clara%20van%20Biljon_CV.pdf)
